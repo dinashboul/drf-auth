@@ -23,7 +23,8 @@ Dina Alshboul
 * pip install rest-freamework
 * pip install psycopg2-binary
 * pip install whitenoise
-* pip install
 
 ## PR
+
+https://github.com/dinashboul/drf-auth/pull/1
 
